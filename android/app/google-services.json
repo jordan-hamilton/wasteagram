@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109823189369",
+    "firebase_url": "https://hamiltj2-wasteagram.firebaseio.com",
+    "project_id": "hamiltj2-wasteagram",
+    "storage_bucket": "hamiltj2-wasteagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109823189369:android:d35f2a622b8ee999f50fa8",
+        "android_client_info": {
+          "package_name": "edu.msudenver.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109823189369-ntm3li57prdboav0cn7uknd38mqj3nqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXi4sylDh0KKQLOy9_1AA_VYjeTlHydI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109823189369-ntm3li57prdboav0cn7uknd38mqj3nqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109823189369-tf1vp68etnujtp5umde99qg8tulis6nh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.msudenver.wasteagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
